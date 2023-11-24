@@ -1,0 +1,13 @@
+[
+    {
+        "img":"https://i.ibb.co/VCZ0Swr/Screenshot-2023-11-21-234524.png",
+        "name":"Dr. Bob Brown",
+        "category":"General Dentist",
+        "say":"General dentists are essential oral health practitioners who diagnose and treat common dental issues. They perform routine cleanings, fillings, extractions, and educate patients on preventive care for optimal dental well-being."
+    },
+    {"img":"https://i.ibb.co/CBZ1bWy/Screenshot-2023-11-21-234536.png","name":"Dr. Mary Smith ", "category":"General Dentist","say":"General dentists are essential oral health practitioners who diagnose and treat common dental issues. They perform routine cleanings, fillings, extractions, and educate patients on preventive care for optimal dental well-being."},
+    {"img":"https://i.ibb.co/TgqfdHm/Screenshot-2023-11-21-234558.png","name":"Dr. Nick Dark", "category":"Orthodontist","say":"Orthodontists specialize in correcting misalignments and irregularities of the teeth and jaws. They use braces, aligners, and other devices to improve bite and enhance overall dental and facial aesthetics."},
+    {"img":"https://i.ibb.co/60pPmtL/Screenshot-2023-11-21-234627.png","name":"Dr. May Dowson", "category":"Endodontist","say":"Orthodontists specialize in correcting misalignments and irregularities of the teeth and jaws. They use braces, aligners, and other devices to improve bite and enhance overall dental and facial aesthetics."},
+    {"img":"https://i.ibb.co/jJxqR9G/Screenshot-2023-11-21-234638.png","name":"Dr. Betty Nilson", "category":"Pediatric Dentist","say":"Orthodontists specialize in correcting misalignments and irregularities of the teeth and jaws. They use braces, aligners, and other devices to improve bite and enhance overall dental and facial aesthetics."},
+    {"img":"https://i.ibb.co/9sNwpCM/Screenshot-2023-11-21-234647.png","name":"Dr. Adrian Scold", "category":"Orthodontist","say":"Orthodontists specialize in correcting misalignments and irregularities of the teeth and jaws. They use braces, aligners, and other devices to improve bite and enhance overall dental and facial aesthetics."}
+]
